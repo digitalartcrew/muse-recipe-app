@@ -1,1 +1,1 @@
-Ruby on Rails application for managing community cooking which includes recipes, tutorials, images, reviews and budgets. Created for The Muse by Donte´ Burney [www.digitalartcrew.com]
+Community living application built on Ruby on Rails for managaing group cooking, events, and room availabilty by Donte´ Burney.
